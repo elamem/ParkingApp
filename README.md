@@ -66,3 +66,8 @@ This fragment shows all the parking lot, floor, space and distance to the user. 
 
 Booking history will be in the Navigation drawer. Users can check all the transactions and all the active parkings here. Users can pay the bill and pick up their vehicle here. When the user clicks pay_and_pickup button Pickup bottom sheet dialog fragment will display the charges. Users can pay and collect their vehicle there.
 
+# Limitations
+No support for dark mode
+The layouts are not intended for tablets. The majority of the layout can be reused for tablets.
+Reservation is not yet supported.
+A map that only shows the locations of the parking lots and their users.
