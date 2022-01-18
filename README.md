@@ -28,7 +28,7 @@ Note :: this is the rough version made some major changes in the final project.
 ## Assumptions
 
 1. For the development sake I created the data and pre-populated the db for the first time when the user opens the application.
-2. Parking lot table contains 4 parking lots. Each parking lot has 2 floors and each floor has 5 parking spaces.
+2. Parking lot table contains 4 parking lots. Each parking lot has 2 floors and each floor has 5 parking spaces. (To modify these values please check PrePopulateDatabase.kt)
 3. Parking lots lat and long are predefined. 
 4. User location also pre defined.
 
